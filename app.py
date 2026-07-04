@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 from src.rag_app.llm import generate_answer
 
 from src.rag_app.loader import load_documents
@@ -51,3 +52,6 @@ while True:
     print("\nGenerating final answer from Llama model...")
     answer = generate_answer(prompt)
     print(f"\nAnswer:\n{answer}\n" + "="*50)
+=======
+
+>>>>>>> c7e42b340110677a2f11294d149cefbe589dbd73

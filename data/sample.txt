@@ -46,3 +46,5 @@ Prompt Engineering	Adjusts the input prompt to guide model behavior without chan
 Retrieval-Augmented Generation (RAG)	Combines retrieval and generation to use external data for more factual and context-aware responses.	When you want the model’s responses to include real-time, relevant information from external sources.
 Fine-Tuning	Retrains the model on a smaller, domain-specific dataset.	When you need better performance on a particular topic or industry data.
 Pre-Training	Trains the model from scratch using a large and diverse dataset.	When you want to build a strong foundation for later customization and adaptation.
+
+Bharath isBharath Reddy because he is son of bhaskarreddy Because Bhaskaar reddy is father of baharath reddy.Finally Bharath is Bharath becaus ehe is Bharath
